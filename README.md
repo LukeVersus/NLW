@@ -11,3 +11,5 @@ Teconologias:
 - Git Bash ([https://gitforwindows.org](https://gitforwindows.org/))
 - [Banco de dados](https://www.notion.so/nextlevelweekstarter/Banco-de-Dados-5486eedc84d245a289d6004d34597f22): [SQL](https://en.wikipedia.org/wiki/SQL)
 - SQLite
+- Express
+- Nunjucks
