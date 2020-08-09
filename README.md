@@ -5,7 +5,7 @@ Projeto Proffy.
 
 Site/Plataforma para cadastro e busca de professores particulares.
 
-Teconologias:
+Tecnologias:
 - Linguagem: **[Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)**
 - Node.js ([https://nodejs.org](https://nodejs.org/en/))
 - Git Bash ([https://gitforwindows.org](https://gitforwindows.org/))
