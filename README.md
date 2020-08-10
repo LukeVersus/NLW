@@ -5,7 +5,7 @@ Projeto Proffy.
 
 Site/Plataforma para cadastro e busca de professores particulares.
 
-<img src="D:\Imagens\Screenshot_22.png" alt="Proffy">
+<img src="D:/Imagens/Screenshot_22.png" alt="Proffy">
 
 Tecnologias:
 - Linguagem: **[Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)**
